@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Adam's Page
 
-You can use the [editor on GitHub](https://github.com/adamli-86/adamli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Stat on my github](https://www.gitmemory.com/adamli-86) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gitmemory is free and easy for use, you can take a glance of all my github activities 
+
+Once you take to register it with your github which only take no more than 1 min, you can link your github to this dashbord website and have your own statistics of github history, including summary pie chart and brief details as well.
+
+ 
+
+
+
+## This page is made and edited by Markdown function within Github
 
 ### Markdown
 
